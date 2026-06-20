@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "997469405745250334",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・moving-zones",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:49.2718186+02:00",
+  "messages": [
+    {
+      "id": "1316340568342794261",
+      "type": "Default",
+      "timestamp": "2024-12-11T10:47:27.918+01:00",
+      "timestampEdited": "2025-02-05T15:11:27.75+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- In solos you can save so many mats by re-using the old builds (peoples tarps) and then tarping off them when u get closer to zone.\n\n- You want to play a higher layer if you have mats so you don't get jumped on by the kids that are shambles.\n\n- look for refreshes when you have around 300 mats. Don't wait too long otherwise your chances of dying are much higher. - BUT! if you have 300 materials anytime after second moving zone, you don't need to force anything.\n\n- Try to play outer edges of zone when u are rotating. Getting stuck in the middle of zone means you have to cover both sides, but when playing edges zone you save materials since you won't need to block the storm line.\n\n- Don't greed any kills, just play for the win. Winning the game is better than just getting 4th with 2-3 more kills.\n\n- If you are need a refresh desperately, drop to lowground at around the 3rd moving zone. Try to get ahead and drop lowground.\n\n__Video to watch: https://youtu.be/QBj3fxU_e-s?si=oBbkBp1b5ppYujWb__",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

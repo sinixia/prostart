@@ -1,0 +1,104 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1453636686989885470",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-fight-like-the-pros",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:01.396344+02:00",
+  "messages": [
+    {
+      "id": "1454367028327481487",
+      "type": "Default",
+      "timestamp": "2025-12-27T07:55:20.386+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# **Advice From a Real Pro — Shxrk**\n\n“As a competitive player, you win fights by **thinking one step ahead — not just by building fast or clicking hard. Stay calm under pressure, play smart angles, and always have a plan for your next move.” — Shxrk\n\n- Never take a 50/50 fight\n - - If you’re both spraying and hoping for the best, you already lost.\n - - Always fight from right-hand peeks, from cover, or from height.\n\n- Damage before you push\n - - Crack their shield first.\n - - Only then do you move in.\n - - Pros don’t push because they’re bored — they push because the enemy is weak.\n\n- Box smart, not fast\n - - Anyone can build fast.\n - - The difference is knowing which wall matters.\n - - Take their wall, replace it, then control the box before you even think about shooting.\n\n- Make them panic\n - - Pressure is a weapon.\n - - Spray their walls, change angles, fake edits — force mistakes.\n - - When players panic, they hand you the fight.\n\n- Always have an exit plan\n - - Every fight I take, I already know how I’m leaving if it goes bad.\n - - If you don’t know your escape route, you’re gambling.\n\n - - Stop playing for highlights\n - - Start playing to dominate",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1456418169106469061",
+      "type": "Default",
+      "timestamp": "2026-01-01T23:45:50.456+01:00",
+      "timestampEdited": "2026-01-01T23:46:13.986+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Advice From a Real Pro - Khanada\n- *try to get damage advantage(to sneak on them or to tag them with AR)*\n- *try to predict opponent what he will do/where he will go*\n- *track opponents true a wall*\n- *when you are low make enought space and wait for them to make mistake*\n- *take walls with guns*\n- *hold high in every fight*\n- *do smarts peeks*\n- *do side jumps and shoot*",
+      "author": {
+        "id": "1198656885574864947",
+        "name": "leon02867",
+        "discriminator": "0000",
+        "nickname": "Leon",
+        "color": "#FF8000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1198656885574864947/37cab91a79ec6daa2ab9b2a02acf836a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

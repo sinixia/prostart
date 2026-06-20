@@ -1,0 +1,389 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1301816534494089266",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・retakes",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:04.8177787+02:00",
+  "messages": [
+    {
+      "id": "1412771916812386435",
+      "type": "Default",
+      "timestamp": "2025-09-03T14:11:13.001+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "### Why Highground Even Matters\n\nHighground wins fights. You control the angle, you see more, and you’re harder to hit. If you can consistently retake highground, you’ll dominate more endgames, win more 1v1s, and make smarter plays overall.\n\n**Retakes you should learn first**\n- Ramp + Floor + Wall into 90s\n   - The classic. Quick triple build into tight 90s. Spam this to gain elevation fast while staying protected.\n   - Use this when you’ve got space and want to punish someone who’s pushing too high.\n\n- Mini-Ramp Retake\n    - Throw a floor under you mid-ramp, then ramp again. Fast and efficient.\n  - It’s low-risk, perfect when you’re low on mats or need quick vertical movement.\n\n- Cone Flip Retake\n   - Drop a cone over your opponent’s ramp, place a floor, then ramp over it.\n  - This surprises them and gives you height while staying covered.\n\n- Double Ramp + Wall Surf\n   - Throw two ramps (one on each side) and wall as you move up — lets you climb safely and quickly.\n   - Use this when the opponent’s building aggressively or box-peeking.\n\n- Mix-ups & Freestyles\n   - Combine cones, walls, and edits. Don’t be predictable. Switch it up with side jumps, fake-outs, and delayed ramps to throw your opponent off.",
+      "author": {
+        "id": "916260880876986378",
+        "name": "psychosystems",
+        "discriminator": "0000",
+        "nickname": "Psychosystems",
+        "color": "#B000FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1231232826838356120",
+            "name": "999",
+            "color": null,
+            "position": 76
+          },
+          {
+            "id": "1187576779947380787",
+            "name": "+",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "1231538206567301231",
+            "name": "Head Staff | Management",
+            "color": "#B000FF",
+            "position": 59
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916260880876986378/566289dd580f017e44e5c7ddf66dadd7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412771932364865670",
+      "type": "Default",
+      "timestamp": "2025-09-03T14:11:16.709+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "### How to Actually Get Good at It\n- Warm-Up Routine:\n  - Pick one retake and drill it 5–10 times in creative. Get your fingers used to the motion.\n  - Then link 2–3 retakes in a row and build that rhythm.\n- Edit Speed = Confidence:\n  - Pre-edit, confirm fast, and don’t second guess. Fast walls + cone edits are your bread and butter in fights.\n- Peace Control As You Retake:\n  - After you gain height, immediately place walls/cones around them so they can’t escape. That’s your kill window.\n- React to Their Moves:\n  - If they try to overbuild, flip a cone or ramp over their head. If they turtle, box them with cones and edit down.\n- Don’t Waste Mats:\n  - Only do full 90s when you need to. Sometimes a simple ramp and cone retake is enough. Save mats for the actual fight.\n_ _",
+      "author": {
+        "id": "916260880876986378",
+        "name": "psychosystems",
+        "discriminator": "0000",
+        "nickname": "Psychosystems",
+        "color": "#B000FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1231232826838356120",
+            "name": "999",
+            "color": null,
+            "position": 76
+          },
+          {
+            "id": "1187576779947380787",
+            "name": "+",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "1231538206567301231",
+            "name": "Head Staff | Management",
+            "color": "#B000FF",
+            "position": 59
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916260880876986378/566289dd580f017e44e5c7ddf66dadd7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1412771940246225008",
+      "type": "Default",
+      "timestamp": "2025-09-03T14:11:18.588+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "### Combat Mindset\n- Every retake should lead to pressure. You’re not just building, you’re setting up your next shot. Always think:\n  - “How do I trap them?”\n  - “Where’s my angle?”\n  - “Can I end this fight now?”\nUse height as a weapon, not a flex.\n\n**Training Plan**\n1.    Solo Creative – Pick one retake and grind it 10x until it’s clean\n2.    Chain Two Retakes – Combine them mid-fight\n3.    Fight Real Players – Queue up and test it under pressure\n4.    Watch VODs – Record your fights, see which retakes work or fail\n\n- You need to learn these 4–5 retakes and drill them till they’re muscle memory. Start with the basic 90s and cone flip. Then mix in double ramps and mini-ramp combos. Edit fast, build smart, and don’t waste mats. Every retake is a setup for pressure and a kill. If you get this down, you’ll win way more fights and be way more confident in build battles.",
+      "author": {
+        "id": "916260880876986378",
+        "name": "psychosystems",
+        "discriminator": "0000",
+        "nickname": "Psychosystems",
+        "color": "#B000FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1231232826838356120",
+            "name": "999",
+            "color": null,
+            "position": 76
+          },
+          {
+            "id": "1187576779947380787",
+            "name": "+",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "1231538206567301231",
+            "name": "Head Staff | Management",
+            "color": "#B000FF",
+            "position": 59
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916260880876986378/566289dd580f017e44e5c7ddf66dadd7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,164 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1273815633783685140",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-push",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:06.302687+02:00",
+  "messages": [
+    {
+      "id": "1335246497981141104",
+      "type": "Default",
+      "timestamp": "2025-02-01T14:52:52.799+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Duo Pushing\nFor duos, all the solo tips apply but for both of you. This could also include 3-4 people.\n\n- **Pinching:** *Pinching* is a technique of pressuring boxes from 2+ angles. This allows you to split up the duo and take away space easier.\n\n- **Wood:** When somebody is boxed in wood, this is a very good sign to push them. This can mean one of two things. They are either low on materials, or don't know how to use their materials wisely.\n\n- **Disadvantage:** When you know they will be at a disadvantage, it is fine to push their box. If they just fought or got lobbied for a long period of time, its good to push their box since you will be in the advantage.\n\n- **Refresh needed:** In mid-game, your goal is surge and to get ready for endgame. Some things to look out for that might be low would include *surge, health, heals, loot, ammo, materials*. If you are low on any of these, remember you are at a disadvantage in the fight. \n\n- **Timing and positioning:** Remember that your positioning and when you take the fight means a lot. Wrong place wrong time can get you lobby focused, getting you both killed. You don't want that. Instead, try to be near edge circle and stay away from middle/congested zone. This allows you to fight without many people being around you. The timing should be when nobody is looking and the team will be caught off guard.\n\n- **Layering:** This doesn't happen often, but there is a possibility that you can chop out the opponents box if they are on a higher layer but only connected by 1-2 pieces. This allows your teammate to get a prefire, getting a health advantage. This is the best advantage which should win you the fight.\n\n__Video: https://youtu.be/zmkUJpdDJjY?si=YtL_paFglE9NN4ua__",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375069779727093790",
+      "type": "Default",
+      "timestamp": "2025-05-22T13:16:23.048+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Trio Pushing\nHere is how to make an aggressive play as a trio on another team:\n - Make sure all three players in your team are together\n - Do the “3,2,1” move, where all three team members beam 1 player of the opposing team simultaneously, as this will likely earn you a know (99% of the time if you hit your shots minimally, triple spraying is that strong)\n - Have 1 player go for the finish on the knock, whilst the other 2 start pressuring the remaining opponents\n - The player that got the finish should get together and apply pressure on the duo, it is now a 3v2 making the fight significantly easier\n- Pinch the remaining players as said in #deleted-channel \n - Once having eliminated the last two players of that trio, scout in a cone your surroundings for 3rd party teams, if you are not careful and aware you might suffer from the same technique.",
+      "author": {
+        "id": "1114136212505100289",
+        "name": "coachnass",
+        "discriminator": "0000",
+        "nickname": "NMC Coach Nass",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1114136212505100289/8b6d61f17323b7b8041247ba321edf50.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375343989976469505",
+      "type": "Default",
+      "timestamp": "2025-05-23T07:25:59.866+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Solo pushing \n\n- When pushing in solos the fight is based on skill only as you have no teammates to help or be at a plus one or two advantage \n\n- When pushing a player look for damage to start the fight out for example a surprise shotgun shot or a beam with an ar this gives you an advantage and puts you at a better chance to win the fight this also makes the player have to take a defensive approach to the fight\n\n- When pushing towards a player make sure you block your angles from the player for example when running towards someone place a stair in front of you and once you fall off place another etc this makes the player unable to get any return damage on you this will be a good players first aim when starting at a disadvantage\n\n- If a player is building out of wood you could pressure them while advancing towards them to try and get more damage by bullets bleeding through the wooden wall \n\n- How to position yourself in a fight when you're above the player always apply pressure to the player below you if you're below the player you are fighting try to get above the player by 90ing upwards or chopping the player out\n\n- Don’t push a box directly if you don’t have a big advantage play angles and do not directly jump into a box as this would be a 50-50 \n\n- Rotating towards a player if you see a player 100m plus and you want to push them try to go the quickest way towards them while maintaining a sneaky position as you can get a better beam/pump shot do not rush the start of a fight be patient so when you push your at a bigger advantage than small damage hits\n\n- Phase ins this is used to kill an opponent quickly but put yourself in a 50-50 this is a bad way to fight as it could cause you to lose however when you are in a health advantage this should be used to kill the opponent quickly how to perform a phase in is the momentum this is by placing a stair above your head and jumping up into it\n-# credit to @Flez for creating the solo tips",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "948308042015969370",
+          "name": "flez.7",
+          "discriminator": "0000",
+          "nickname": "Flez",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

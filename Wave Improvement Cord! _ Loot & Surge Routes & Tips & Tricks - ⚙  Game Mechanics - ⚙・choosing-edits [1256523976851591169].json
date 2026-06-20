@@ -1,0 +1,73 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1256523976851591169",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・choosing-edits",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:01.4481574+02:00",
+  "messages": [
+    {
+      "id": "1374058394209489030",
+      "type": "Default",
+      "timestamp": "2025-05-19T18:17:29.95+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Choosing correct edits for your situation \n\n- Make sure a safe peek is being taken at all times for example when your opponent takes a right-hand peek you should never make an open edit this causes you to be open for a shot and cause you to take significant damage causing a disadvantage \n\n- Never 50-50 as this can lead to your death this tactic only works when your opponent is low on hp however you will also take a significant amount of damage so therefore choosing a right or left-hand peek would always be a better alternative than a 50-50\n\n- Ways to improve your knowledge on edits are watching pros play most pros always play the right edit for the right situation also maps you can play to practice the right edits in the right conditions I would recommend Raiders map mechanics training code - 2424-4344-7824\n\n- Choosing correct edits when box fighting is key as when box fighting it is mainly good peaks that will win you the fight in a box fight environment eg being inside a building there is limited space to control so they control it all allowing your peaks to be better as your not in a limited space edit I would recommend doing when trying to gain space within a box fighting environment is a window edit and spray with your spray gun/ar and have a teammate hold the walls (only applies in team game modes) if in solos this depends on ping\n\n- When in a build fight you need to focus on gaining high ground so your edits here matter the most as you have to hit the enemy to slow down their ascent up to you main mistakes people make when in a build fight are doing an open edit, for example, a double edit down players sometimes position themselves right above the edit to allow a clean shot whereas a shot when your further back and jump up is a better peak ensure damage on you is less than there giving you a positive damage trade another mistake is editing a floor to pressure the team below this gives the players an easy spray battle this would be a 50-50",
+      "author": {
+        "id": "948308042015969370",
+        "name": "flez.7",
+        "discriminator": "0000",
+        "nickname": "Flez",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1374059708444442635",
+      "type": "Default",
+      "timestamp": "2025-05-19T18:22:43.288+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=u6kB-vIQpfY: In this video, Sly Jack explains the use cases of each edit, the types of edits available to a player in specific categories, and why the ◣ edit is not always recommended as a standard get-go:\n\nhttps://www.youtube.com/watch?v=nlQVd4eW-DI: Reiss evaluates the use case of all edits, worst to best, to give advantages to enemy players, make some trick plays etc.\n\nhttps://www.youtube.com/watch?v=rbzPyQ3BsVI: A video explaining which edits to use.",
+      "author": {
+        "id": "948308042015969370",
+        "name": "flez.7",
+        "discriminator": "0000",
+        "nickname": "Flez",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

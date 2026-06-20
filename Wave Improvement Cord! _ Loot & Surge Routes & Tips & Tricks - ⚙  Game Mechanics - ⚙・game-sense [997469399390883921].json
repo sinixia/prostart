@@ -1,0 +1,343 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "997469399390883921",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・game-sense",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:06.5127912+02:00",
+  "messages": [
+    {
+      "id": "1361064827291828416",
+      "type": "Default",
+      "timestamp": "2025-04-13T21:45:42.188+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# **How to Improve your Game Sense**\n- **Learn Map Knowledge**\n  - Familiarize Yourself with POIs: Know the layout of popular points of interest (POIs) and their loot distribution.\n  - Understand Terrain: Get to know where high ground, cover, and natural chokepoints are located.\n\n- **Understand the Meta**\n  - Stay Updated: Keep up with patch notes and changes to weapons, items, and mechanics.\n  - Adapt to Current Trends: Be aware of which weapons and strategies are popular in the current meta.\n\n- **Watch and Analyze Gameplay**\n  - Study Pros and Streamers: Observe how experienced players position themselves, make decisions, and handle different situations.\n  - Review Your Own Gameplay: Record and review your matches to analyze mistakes and identify areas for improvement.\n\n- **Develop a Tactical Mindset**\n  - Anticipate Enemy Movements: Predict where enemies are likely to be based on their potential movement patterns and your knowledge of the map.\n  - Plan Your Moves: Think ahead about your next move, whether it’s positioning, looting, or engaging in a fight.",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361064846522847422",
+      "type": "Default",
+      "timestamp": "2025-04-13T21:45:46.773+02:00",
+      "timestampEdited": "2025-04-13T21:46:04.212+02:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n- **Improve Your Decision-Making**\n  - Assess Risk vs. Reward: Evaluate whether engaging in a fight or taking a specific route will benefit you more or put you at risk.\n  - Know When to Engage or Retreat: Recognize when to fight or avoid combat based on your current resources and position.\n\n- **Practice Communication:**\n  - Play with a Team: Team up with friends or regular players to improve communication and coordination.\n  - Use Callouts: Develop and use effective callouts to share information with teammates.\n\n- **Focus on Game Mechanics**\n  - Master Building: Practice building quickly and effectively to create cover and gain high ground.\n  - Improve Accuracy: Work on your aiming and shooting skills to increase your chances of winning gunfights.\n\n- **Adapt and Learn**\n  - Be Flexible: Adjust your strategies based on the flow of the game and the behavior of other players.\n  - Learn from Defeats: Analyze losses to understand what went wrong and how you can avoid similar mistakes in the future.",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361064867682849105",
+      "type": "Default",
+      "timestamp": "2025-04-13T21:45:51.818+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n- **While VOD reviewing, ask yourself the following questions**\n  - What actually went wrong here?\n  - Could I have rotated earlier?\n  - Was that fight worth taking?\n  - Did I not check my surroundings enough?\n  - It’s not about blaming yourself — it’s about being honest and figuring out what you could’ve done differently. That’s how you turn a loss into progress.\n\n- You can also watch how top pros handle those same situations. Maybe they rotated differently or played a fight slower. Comparing your decisions to theirs helps you start thinking like them — and that’s where the real growth happens.\n\n- Improving your game sense isn’t about grinding 10 hours a day. It’s about playing smart, thinking ahead, and letting each match teach you something.\n\n- The more aware you are of your past mistakes, the less likely you are to repeat them — and before you know it, you’ll be playing cleaner, making better calls, and climbing way more consistently.\n\n- Don’t play repetitive scenarios, play on varied fields for varied practice.\n\n- Best way to improve is by playing a lot of tournaments.\n\n- Watch more endgames from youtube videos, etc.\n\n- Pro vod review. Will help you understand how pros are getting better, And win a lot and I mean a lot of money.\n\n- Play more ranked. Playing ranked is going to improve your game sense. You will learn a lot of exploits in tournaments and more.\n\n- Watch pro players. I recommend IGL ones, Like khanada, Acorn, MrSavage and more.",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361064877656903960",
+      "type": "Default",
+      "timestamp": "2025-04-13T21:45:54.196+02:00",
+      "timestampEdited": "2025-04-14T10:08:24.92+02:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n- Videos to watch\n  - https://www.youtube.com/watch?v=TBU2XucDTHA\n  - https://www.youtube.com/watch?v=T3PYYCjSvzw\n  - https://youtu.be/ZF-VP-_Aaeo\n  - https://youtu.be/TBU2XucDTHA?si=4DZ7MeIkdsXbWu6C\n  - https://youtu.be/t9HqOr3Y0QQ\n  - https://m.youtube.com/watch?v=7ydgbx4myOA&t=264s",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

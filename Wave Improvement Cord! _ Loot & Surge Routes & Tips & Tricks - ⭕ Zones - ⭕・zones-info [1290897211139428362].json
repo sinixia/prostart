@@ -1,0 +1,552 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1290897211139428362",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・zones-info",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:46.8182252+02:00",
+  "messages": [
+    {
+      "id": "1426832172295389244",
+      "type": "Default",
+      "timestamp": "2025-10-12T09:21:39.135+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Battle Royale",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1426832171947003996",
+          "url": "https://cdn.discordapp.com/attachments/1290897211139428362/1426832171947003996/3.png?ex=6a36e843&is=6a3596c3&hm=ad0b4ec1ed17f31f4e01483dad0bdd9055d0bab925f912089983c7f1b7b4ecea&",
+          "fileName": "3.png",
+          "fileSizeBytes": 110688
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426832194835316746",
+      "type": "Default",
+      "timestamp": "2025-10-12T09:21:44.509+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Reload",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1426832194499903559",
+          "url": "https://cdn.discordapp.com/attachments/1290897211139428362/1426832194499903559/4.png?ex=6a36e848&is=6a3596c8&hm=e5af9891b20bcbd89c190800083986160cc2f6031dc47039efa9af770532f22c&",
+          "fileName": "4.png",
+          "fileSizeBytes": 104210
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426832215701983242",
+      "type": "Default",
+      "timestamp": "2025-10-12T09:21:49.484+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# OG",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1426832215341400075",
+          "url": "https://cdn.discordapp.com/attachments/1290897211139428362/1426832215341400075/5.png?ex=6a36e84d&is=6a3596cd&hm=6a6da3c2560a1d4afd9bd4d40748e541783217dc3c2e81a5af557d58ea2aece3&",
+          "fileName": "5.png",
+          "fileSizeBytes": 79437
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426832540240707594",
+      "type": "Default",
+      "timestamp": "2025-10-12T09:23:06.86+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "__Zone Information__\n- [Battle Royale](https://discord.com/channels/971731167621574666/1290897211139428362/1426832172295389244)\n- [Reload](https://discord.com/channels/971731167621574666/1290897211139428362/1426832194835316746)\n- [OG](https://discord.com/channels/971731167621574666/1290897211139428362/1426832215701983242)\n> Credits to @vsync for helping create this document \uD83D\uDC51",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1177200518263746650",
+          "name": "vsyncfnrrrr1",
+          "discriminator": "0000",
+          "nickname": "vsync",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1177200518263746650/676755988004616773885ab25640c96e.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC51",
+          "code": "crown",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f451.svg"
+        }
+      ]
+    },
+    {
+      "id": "1435967591498780802",
+      "type": "Default",
+      "timestamp": "2025-11-06T13:22:32.801+01:00",
+      "timestampEdited": "2025-11-06T13:54:59.46+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Please be advised some of the info on battle royal and og is outated",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1445015053706461295",
+      "type": "Default",
+      "timestamp": "2025-12-01T12:33:55.885+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Br \n\nCredit: Osirion Who Made This!",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1445015053039435927",
+          "url": "https://cdn.discordapp.com/attachments/1290897211139428362/1445015053039435927/G7CoYYuX0AAc2Vv.png?ex=6a372363&is=6a35d1e3&hm=cd42ac2337cd1f889f6990a2812a2bba8e4a230e999840fbe0a514473997e34b&",
+          "fileName": "G7CoYYuX0AAc2Vv.png",
+          "fileSizeBytes": 294694
+        },
+        {
+          "id": "1445015053471322214",
+          "url": "https://cdn.discordapp.com/attachments/1290897211139428362/1445015053471322214/G7Coi4ZWEAAop5Z.png?ex=6a372363&is=6a35d1e3&hm=bac6dcda792509b4ce32c504b993375b907780770a06f50c6cb9673667b9950c&",
+          "fileName": "G7Coi4ZWEAAop5Z.png",
+          "fileSizeBytes": 1054231
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

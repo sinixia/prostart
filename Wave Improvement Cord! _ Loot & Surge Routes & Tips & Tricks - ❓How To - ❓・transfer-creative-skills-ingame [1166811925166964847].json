@@ -1,0 +1,284 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1166811925166964847",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・transfer-creative-skills-ingame",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:15.9394251+02:00",
+  "messages": [
+    {
+      "id": "1362506544284958742",
+      "type": "Default",
+      "timestamp": "2025-04-17T21:14:34.305+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Tips on how you can transfer your creative skills to real games\n\n- Most Fortnite players have a lot of skill against random people in a creative game but it doesn’t transfer to in-game fights. Take creative more seriously and in fights pretend that if you die you’ve lost a game in a cash cup. Then you start playing more confidently in game.\n- Don’t play fully aggressive in creative games because you definitely won’t in cash cup or in pubs, whether you're a noob or a pro.\n- Play every creative game like a ranked game, and remember that the more practice isn't always better, as for your practice you need to be working on things you are not as good at, instead of just wasting time practicing thing you know you are already good at.\n- Don't do flashy retakes or stuff in creative that you won't do in real game it's highly unrealistic since it's wasting mats, editing too fast and losing real concentration, and toxicity (flexing, emoting, etc. Instead, you should play more Ranked and Scrims to get more realistic practice.\n- Play on high delay maps or maps that have similar delay to battle royale",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1362506551578853497",
+      "type": "Default",
+      "timestamp": "2025-04-17T21:14:36.044+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- **Creative ≠ Real Games**\n  - Creative helps you build mechanics, muscle memory, and confidence — but it doesn’t teach you game sense, rotations, storm management, or pressure handling.      That’s where real games come in.\n- **You Need Experience**\n  - Mechanics alone won’t win you games.  \n  - Game awareness, timing, positioning, and decision-making are built through repetition and trial & error in real match settings.  \n  - You have to put yourself in uncomfortable, real-game situations repeatedly until you get comfortable.  \n  - You don’t “get better” by avoiding the hard parts — you improve by facing them.\n- **Play More Realistic Practice**\n   - Zone wars with moving zones  \n   - Scrims and custom games  \n   - VOD review + replays  \n- **Train Smart, Not Just Hard**\n   - Warm up in creative  \n   - Then play at least 5-10 real games daily, focusing on playing smart, rotating well, and not just W-keying like Creative  \n- **Track Your Mistakes**\n   - Did you die because of aim, or bad position?  \n   - Were you tunnel visioned?  \n   - Did you overbuild and run out of mats?",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1362506563234955424",
+      "type": "Default",
+      "timestamp": "2025-04-17T21:14:38.823+02:00",
+      "timestampEdited": "2025-04-17T21:36:43.422+02:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- **Start With One Goal**\n   - Don’t try to be perfect at everything at once  \n   - Start with: “This game, I’m focusing on not wasting mats”  \n   - Or: “This game, I’m working on mid-game rotates”  \n -  **Lock In – This Takes Time**\n  - Building that in-game confidence comes from hundreds of reps\n  - You can’t skip this phase — everyone has to go through it  \n  - But the more focused your reps are, the faster you’ll improve\n-    **Videos to watch**\n  - <https://youtu.be/V4n2uvb0Ziw?si=ekKKmxC3MKpClxh2>\n  - <https://youtu.be/4QEQgLrfiFk?si=c6aU0Wx9Ox_KvW0X>\n  - <https://youtu.be/ubom606WcQY?si=dyv7q1ftikbStfQz>\n  - <https://youtu.be/tdZqne5ZF-g?t=348>\n  - <https://www.youtube.com/watch?v=e4U3Rntg96o>\n-# credit to @Pyrox @Deleted User for making this guide",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1275492809813655653",
+          "name": "pyroxfnbr_",
+          "discriminator": "0000",
+          "nickname": "Pyrox",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1275492809813655653/38fb2633037e011b2de6c331a9176c9c.png?size=512"
+        },
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

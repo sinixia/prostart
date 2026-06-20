@@ -1,0 +1,399 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1426075220292407418",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-get-out-of-div-2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:04.6287765+02:00",
+  "messages": [
+    {
+      "id": "1490643524310401045",
+      "type": "Default",
+      "timestamp": "2026-04-06T11:25:11.013+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Lets get you out of div 2\n\n\nFirst thing to note is i will be basing qual of eu qual which is top 50\n\n# Estimated qual\nThe estimated qual is around 335-350  points (345 points to be safe)\n\nKey Priorities",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1490675994867138663",
+      "type": "Default",
+      "timestamp": "2026-04-06T13:34:12.597+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- Need to be making every endgame consistently aiming to play games to the endgame to ultimately win.\n- - One thing I note that even pros make this mistake and time and time again cost them wins is that when they get height teams can become over aggressive and over confident, dropping down onto 2nd height walls and then keying low ground. Although you may get some elim points it is not ideal as you're leaving height to be taken + you're putting yourself at risk from getting blocked off to height. When the whole point of getting height was to not be pressured by other teams and be able to have easy rotates in the endgame which by dropping down both of you onto low ground or 2nd height to pressure is contradicting the whole reason to play height. If you're gonna play height play height and aim to win the game if you have to drop down to get a refresh should be one player playing aggro while other play maintain height and sprays. However only case you drop down as a team if you lose height or need mats badly.\n- It is now critical that you and your duo play fights together with constant communication of what is occurring in the fight and what your plan is or thinking to do so your duo understands. In addition a great way to practice this is in 2v2s in creative or playing ranked with duo to get some fighting chem.\n- Furthermore you and your duo should have a https://discord.com/channels/971731167621574666/997469359528226906 like where you rotate for metal vending machines near your drop spot and maybe slurp trucks or rotation strategies etc.\n- A fighting tip to do with your duo is that you can aim to place builds to obstruct and separate other duos from each other to get them solo so you can double team them and then kill them.\n- In addition when rotating in endgame you need to be instantly boxing up and staggering rotates as in this current season it is quite easy to be beamed and tracked when you land. This also provides for you and your duo to meet up and plan the next stage of the rotation.\n- Moreover when you are dead and your teammate is clutching up you do not want to over-stress them with too many comms you want to keep your comms minimal that helps them and not becomes you playing for them as that will never end well. Comms things like mats where to rotate marking zone. In addition it is vital that you are not complaining how you died during this time as this will affect your teammate who is trying to clutch up talk about it after the tournament when VOD reviewing.\n- This is a very overlooked aspect of Fortnite yet I see so many teams doing it, talking about what happened last game saying what if this what if that. I wished not die this is not good mental inside a tournament as you will then be saying I should be 50 points ahead or this and that which does not help your performance giving you extra stress and then actually making you play worse in the tournament.\n- Another really good piece of advice is trying to play with the same duo for a long duration as this will yield the highest chance to quality then hoping with a new tm8 every week as you will have better chemistry. However leave the person if they are being negative or not willing to grind with you or respect your decisions etc or are letting you down.\n- Now it comes without saying you can't improve without identify your mistakes, YOU MUST VOD review and you need to analyse what went wrong in your games. Where you out looted? Did the other team claim more loot than you on an offspawn fight? Did you and your teammate choose to  rotate at the wrong time in endgame? You need to write down what you did wrong and actively aim to actually fix it and improve it. If you do not VOD review that's just like hitting your head against a wall and hoping for it to break it's gonna take way longer to improve and you will have no idea about your weakness or strengths. You especially must VOD review with your duo and adapt a gameplan that will best suit yourselves.",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,112 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "997469400699523182",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・peaks-angles",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:16:57.677017+02:00",
+  "messages": [
+    {
+      "id": "1399762337128255550",
+      "type": "Default",
+      "timestamp": "2025-07-29T16:35:47.498+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Tips for Peaks\n\n- Peeking Techniques:\n  - Wall Peeking: Place a wall and then quickly move to the side of it to look around. This way, only a small part of your character is exposed.\n  - Corner Peeking: When you’re near a corner, move slightly out from behind it to see if you can spot enemies. You can also use building pieces like walls or ramps to create angles for peeking.\n\n- Use Building for Cover: Utilize walls, ramps, and other structures to create cover. Build a ramp and a wall to create a small peek hole where you can spot enemies without exposing yourself fully.\n\n- Crouching and Jumping: Crouch to reduce your profile when peeking. Jumping while peeking can make you harder to hit, but be cautious as it can also make you more predictable.\n\n- Edit Peeks: Use your building edits to create peek holes. Edit a wall to peek through. This allows you to see and shoot while staying mostly protected.\n\n- Practice Movement: Learn to strafe left and right while peeking to make yourself a harder target. Combine this with quick peek-and-shoot actions to maximize your effectiveness.\n\n- Use Sound Cues: Pay attention to audio cues like footsteps and gunshots to anticipate enemy positions and adjust your peeks accordingly.\n\n- Adjust Sensitivity: Fine-tune your mouse or controller sensitivity to ensure you can make quick, precise movements when peeking.\n\n- Watch and Learn: Study gameplay from skilled players or streamers to see how they utilize peeking strategies effectively.\n\n- Training map to use: `4681-7711-6813` - ADVANCED PEEKING - MOVEMENT COURSE V3\n\n- Go for right-hand peeks if possible\n\n- Avoid window and bottom-half edits, as well as any other edits that leave you exposed\n\n- Take advantage of top-row edits and Dorito peeks\n\n- Place floor above you during half edit peek to hold you down after peek to avoid trading damage.\n** **\n- Instead of Mongraal Classic: *Edit wall, place half ramp from back right to back left*. __Result:__ Enemy has blocked view, shots also blocked by your placed ramp, no right-hand peek for them + they can’t move and edit out from their position, and you can headshot them really easily because they’re stuck anyway (As demonstated in this video: <https://www.youtube.com/watch?v=cu804KIbYO8>)\n\n- Confirm Edit On Release Off to be able to safely peak whilst maintaining crosshair placement on the enemy behind the wall etc. So you MUST use EOR Off for this, and forget “editing fast” or “fast building” that is not helpful except in few scenarios.\n\n- If the enemy has taken a shot already and has kind of “missed” or “shot the wall accidentally” type thing, then you can safely open a wide edit and damage and reset. The enemy cannot shoot their shotgun in this time as it is in cooldown and even if they were to switch to a spray weapon, it would not be effective damage against you.\n\n**How to learn to peek**\n\nNow, peeking in an optimal way is easier said than done. Often we find ourselves in situations in which we make 50/50 edits or just jump in, but how can I condition myself to do better peeks in my fights? Don’t worry, I have the solution for you.\n\n - When warming up or playing 1v1s/creative disable your in game health bar. This may sound dumb but by going to your HUD settings and turning the ***”Player Health”*** option OFF, you will not be able to tell how much HP you have and how much damage you took, forcing you to play protective peeks in order to win your fights. Doing this will condition your muscle memory into doing this in game aswell!\n\n# Always peak behind the black line as shown in the picture:",
+      "author": {
+        "id": "948308042015969370",
+        "name": "flez.7",
+        "discriminator": "0000",
+        "nickname": "Flez",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1399762337036107867",
+          "url": "https://cdn.discordapp.com/attachments/997469400699523182/1399762337036107867/image.png?ex=6a36a543&is=6a3553c3&hm=3821925743954e871740928a9102786b32fe3e9ce2d23d84f9a748c8b6146d5c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1271861
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1399762411644522690",
+      "type": "Default",
+      "timestamp": "2025-07-29T16:36:05.264+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Confirming this edit would look like this!",
+      "author": {
+        "id": "948308042015969370",
+        "name": "flez.7",
+        "discriminator": "0000",
+        "nickname": "Flez",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1399762411505979493",
+          "url": "https://cdn.discordapp.com/attachments/997469400699523182/1399762411505979493/image.png?ex=6a36a555&is=6a3553d5&hm=1bb9c96bcccc7b4d300092733e1aea193c0df180bf10ab939582e057fed66d41&",
+          "fileName": "image.png",
+          "fileSizeBytes": 2060574
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1399762430795448494",
+      "type": "Default",
+      "timestamp": "2025-07-29T16:36:09.83+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Videos To Watch\n\n- https://youtu.be/Z4aBPPAVt6w?si=4mTMxaDZ08gY5Wh7\n\n- https://youtu.be/-SfvF9zLz1s?si=0S59i2TJD3LYxPUs\n\n- https://youtu.be/xIm4XALhyuc?si=YdnJE4T4n6zDJl2S (Watch the times 3 min - 5 min)",
+      "author": {
+        "id": "948308042015969370",
+        "name": "flez.7",
+        "discriminator": "0000",
+        "nickname": "Flez",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948308042015969370/e9f0562d2c41926932a33e999a5de33f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

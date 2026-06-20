@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1371027129642385498",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-play-reload",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:08.4793792+02:00",
+  "messages": [
+    {
+      "id": "1371887033756287118",
+      "type": "Default",
+      "timestamp": "2025-05-13T18:29:17.276+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This guide is tailored for beginner Fortnite players, using gameplay from a ranked reload match to illustrate important lessons. It emphasizes that fights are rarely perfect—Fortnite is unpredictable, and adapting on the fly is crucial.\n\nIn the early game, many fights are “50/50” scenarios where both players are in the same box, relying purely on aim. Winning these comes down to superior shooting skills. One example shows a ramp push where the opponent retreats and builds on low ground, shifting the dynamic and requiring quick decision-making.\n\nMid-game engagements become more tactical. Applying pressure from the left side of an opponent’s box provides a right-hand peek advantage. The “high wall method” is useful against players on higher elevation, giving you better peace control. Controlled aggression involves pushing from the left side and building on two angles, restricting your enemy’s movement. Patience also plays a role—slowly swinging at walls with a shotgun ready and altering your angles can bait enemies into making mistakes.\n\nWhen facing over-aggressive opponents, use techniques like cone flipping and counter-angle setups to punish their mistakes. If they have right-hand peek advantage, respond with defensive builds to protect yourself. Gaining floor control above an enemy opens opportunities for double edits and safe attacks.\n\nWall-breaking mechanics are key. Brick or metal walls edited before they’re fully built are “one-shot walls,” making them easy to break and push through for surprise attacks. Advanced tactics like the phase trick—timing a shot to walk through a wall—are great for aggressive plays. Cone trapping your enemy and spraying the floor can phase them into your box, catching them off guard. Always prioritize safe peeking by resetting walls instead of exposing yourself, and use pre-firing to shoot before your opponent’s edits.\n\nStrategic positioning also matters. Pre-boxing, where you build a box while ramping over an enemy, helps trap their movement. Be aware of third parties—if another player is shooting your opponent, pressure from the opposite side to take advantage. After securing a kill, break out of tight areas before looting to avoid getting caught off guard.\n\nIn the endgame, claim walls cautiously while using right-hand peeks to stay safe. Watch for enemies hiding behind unbuilt walls, and take advantage of their exposed positions. Building up creatively can help you gain height advantage and control the fight from above.\n\nKey strategies to remember include using left-side pressure for peek advantage, exploiting one-shot walls, and building smartly with walls and cones to restrict your opponent’s options. Always adapt your tactics based on the opponent’s behavior and aim to control height whenever possible.\n\nTo recap fighting techniques: the ramp push is a straightforward opener, the high wall method works well against elevated opponents, controlled aggression balances pressure with safety, the phase trick bypasses walls with precise timing, and pre-firing gives you the upper hand when anticipating edits.\n\nFinally, always prioritize your health—engage only when you have the advantage. Beginners should focus on aim training for 50/50s, mastering build and peace control, practicing safe peeks and angles, staying alert to third parties, and maintaining smart positioning throughout the match.\n\n**# Good videos to watch**\n \nhttps://www.youtube.com/watch?v=bdk5JbaCRF8\nhttps://www.youtube.com/watch?v=9HIhzerHZOw&t=929s\nhttps://www.youtube.com/watch?v=jKRYcesbtpA",
+      "author": {
+        "id": "1275492809813655653",
+        "name": "pyroxfnbr_",
+        "discriminator": "0000",
+        "nickname": "Pyrox",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1275492809813655653/38fb2633037e011b2de6c331a9176c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

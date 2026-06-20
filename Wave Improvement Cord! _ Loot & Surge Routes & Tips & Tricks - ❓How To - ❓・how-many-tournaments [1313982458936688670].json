@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1313982458936688670",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-many-tournaments",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:02.797728+02:00",
+  "messages": [
+    {
+      "id": "1334507407535112265",
+      "type": "Default",
+      "timestamp": "2025-01-30T13:55:59.905+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Epic Games has now introduced a system where you need 14 tournaments played in the last 180 days to participate in FNCS. This is a protocol to reduce the amount of cheaters/hackers in the FNCS lobbies.\n\nThe best way to check if you have 14 tournaments played is by using Osirion. It has a feature where you can check how many tournaments you have played, and it's really simple and easy to use.\n\n__How to use:__\n1. Go to the web page https://osirion.gg/app/tournaments\n2. Log into your epic games account\nFrom here, you can see if you are eligible for FNCS.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

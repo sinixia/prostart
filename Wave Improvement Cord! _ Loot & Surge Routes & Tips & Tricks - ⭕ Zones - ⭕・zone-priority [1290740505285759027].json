@@ -1,0 +1,594 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1290740505285759027",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・zone-priority",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:52.9080026+02:00",
+  "messages": [
+    {
+      "id": "1495055028678037654",
+      "type": "Default",
+      "timestamp": "2026-04-18T15:34:55.616+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Zone Priority - Zone by Zone Guide\n\n- **First Zone:**\n  - *First zone usually will make it so that basically the entirety of the map is safe from the storm, so the zone priority concept does not apply, as you will 100% still be at your drop.*\n\n- **Second Zone:**\n  - *Even if you do not pull 2nd zone, finish looting up your drop and play storm for a short period of time to maximize your loot, and focus on rotating to 3rd zone, as that is when zone priority really begins to apply.*\n\n- **Third Zone:**\n  - *At this point zone priority really starts. Your goal is to start moving towards center zone. If you are far, rotate early. If you are already in a good position, stabilize and avoid unnecessary fights. This zone is mainly about setting up your mid game (position, mats, info).*\n\n- **Fourth Zone:**\n  - *You want to already be well positioned before the zone closes. Focus on anticipating half-half and minimizing movement. If you have enough mats and don’t need a refresh, playing deadside is very strong. Otherwise, you should play the congested side to find refresh opportunities.*\n\n- **Fifth Zone:**\n  - *This is one of the most important zones of the game. You want to be fully set up before moving zones start (position, mats, heals). Try to stay as close to center as possible. Deadside is ideal if you are comfortable on resources. If you are low mats, you must look for refresh on congested side.*",
+      "author": {
+        "id": "842738895913615370",
+        "name": "meandme7634567",
+        "discriminator": "0000",
+        "nickname": "EXM meandme7634567",
+        "color": "#9F96FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1285862374779256853",
+            "name": "Head Tips and Tricks",
+            "color": "#9F96FF",
+            "position": 56
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1363175748591943890",
+            "name": "Wave Contributor",
+            "color": "#00D6FF",
+            "position": 42
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1123522501075542067",
+            "name": "Fragger \uD83D\uDEE0️",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524556162863175",
+            "name": "Pc",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1123524595392188447",
+            "name": "Xbox",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1123524648819236965",
+            "name": "Nintendo",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1313027970956267560",
+            "name": "Mobile",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1363782566880088155",
+            "name": "Channel Manager",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495055070054842480",
+      "type": "Default",
+      "timestamp": "2026-04-18T15:35:05.481+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- **Sixth Zone:**\n  - *First moving zone. Priority is to keep front side and not get held. Always try to move early with the zone and avoid getting stuck behind. Deadside is still strong if you don’t need refresh. If you are low mats, you need to look for refresh while rotating.*\n\n- **Seventh Zone:**\n  - *At this stage, you should aim to play on a high layer (2–3 layers below height). This gives you space, less pressure, and good awareness of height players. Ideally stay just below height so you are harder to see and less likely to be focused.*\n\n- **Eighth Zone:**\n  - *Look for opportunities to take height. If height is fighting, take advantage by moving front zone and applying pressure (spray). You can also take height using mobility or by applying pressure (spleef). If no opportunity, continue playing your layer with good positioning.*\n\n- **Ninth Zone:**\n  - *Final zones are about decision making. If you are mid/low ground, always keep front side and look for refresh. Try not to stay on the same layer as everyone else, create space whenever possible. If you see an opportunity to win the game (height or refresh), you must take it instantly.*\n\n- **Tenth Zone:**\n  - *From this point, all zones play out the same way. You must prioritize staying front zone at all times. Look constantly for refresh opportunities or chances to take height. Decision making and timing are key to winning.*\n\n- **Eleventh Zone:**\n  - *Same as zone 10. Stay front, secure refresh if needed, and look for height opportunities. Avoid getting stuck behind at all costs.*\n\n- **Twelfth Zone:**\n  - *Final moments of the game. Everything is about execution. Stay front, take any refresh opportunity you see, and if possible secure height to close out the game.*",
+      "author": {
+        "id": "842738895913615370",
+        "name": "meandme7634567",
+        "discriminator": "0000",
+        "nickname": "EXM meandme7634567",
+        "color": "#9F96FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1285862374779256853",
+            "name": "Head Tips and Tricks",
+            "color": "#9F96FF",
+            "position": 56
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1363175748591943890",
+            "name": "Wave Contributor",
+            "color": "#00D6FF",
+            "position": 42
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1123522501075542067",
+            "name": "Fragger \uD83D\uDEE0️",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524556162863175",
+            "name": "Pc",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1123524595392188447",
+            "name": "Xbox",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1123524648819236965",
+            "name": "Nintendo",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1313027970956267560",
+            "name": "Mobile",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1363782566880088155",
+            "name": "Channel Manager",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495055166028906597",
+      "type": "Default",
+      "timestamp": "2026-04-18T15:35:28.363+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "842738895913615370",
+        "name": "meandme7634567",
+        "discriminator": "0000",
+        "nickname": "EXM meandme7634567",
+        "color": "#9F96FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1285862374779256853",
+            "name": "Head Tips and Tricks",
+            "color": "#9F96FF",
+            "position": 56
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1363175748591943890",
+            "name": "Wave Contributor",
+            "color": "#00D6FF",
+            "position": 42
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1123522501075542067",
+            "name": "Fragger \uD83D\uDEE0️",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524556162863175",
+            "name": "Pc",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1123524595392188447",
+            "name": "Xbox",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1123524648819236965",
+            "name": "Nintendo",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1313027970956267560",
+            "name": "Mobile",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1363782566880088155",
+            "name": "Channel Manager",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1495055165751820398",
+          "url": "https://cdn.discordapp.com/attachments/1290740505285759027/1495055165751820398/image.png?ex=6a369720&is=6a3545a0&hm=5e4e63e8fd5a95f8921da2842415c6729e979d0d8a5400e9ad416507443dbf6c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1205428
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

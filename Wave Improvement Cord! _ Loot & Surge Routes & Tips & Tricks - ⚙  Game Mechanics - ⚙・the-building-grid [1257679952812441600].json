@@ -1,0 +1,75 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1257679952812441600",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・the-building-grid",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:08.48275+02:00",
+  "messages": [
+    {
+      "id": "1312454849048350802",
+      "type": "Default",
+      "timestamp": "2024-11-30T17:27:00.245+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Wo4MnYcZXzI: An extremely in-depth and advanced video explaining the \"Building Grid\" and uncovers many hidden things about the building grid which can help you build better.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discovering the Hidden Depths of the Building Grid",
+          "url": "https://www.youtube.com/watch?v=Wo4MnYcZXzI",
+          "timestamp": null,
+          "description": "An in-depth breakdown of how the building grid functions.\n\nSocials\nTwitch: https://www.twitch.tv/slyjackfn\nDiscord: https://discord.gg/p45NBmrYxS\nTwitter: https://twitter.com/SlyJackTv\nTikTok: https://www.tiktok.com/@slyjacktv\n\nSupport-A-Creator Code: Sly-Jack\n#EpicPartner",
+          "color": "#FF0000",
+          "author": {
+            "name": "Sly Jack",
+            "url": "https://www.youtube.com/channel/UCoh-z_vXY0tQlDHf33Pqy9g"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XLKztCjEGjzMvKNrhrPKwXsjkjg1hhBex9v5P1gM56Q/https/i.ytimg.com/vi/Wo4MnYcZXzI/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/Wo4MnYcZXzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/Wo4MnYcZXzI",
+            "canonicalUrl": "https://www.youtube.com/embed/Wo4MnYcZXzI",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

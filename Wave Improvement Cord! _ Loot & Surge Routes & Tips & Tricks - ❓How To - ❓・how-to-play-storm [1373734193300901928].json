@@ -1,0 +1,299 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1373734193300901928",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-play-storm",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:06.8094262+02:00",
+  "messages": [
+    {
+      "id": "1493830913958871152",
+      "type": "Default",
+      "timestamp": "2026-04-15T06:30:43.924+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# How to play storm \n__Solos__\nThe main things you want to get are the gloves and the Skyline Deployer. The rest of your inventory should consist of heals and possibly a shotgun depending on if there is surge or not. Please make sure you follow #\uD83C\uDF29・surge-tips if you are in a high player count lobby.  When the 5th zone appears. You can get a patch up and more med kits from a vending machine. Use the vending machines to your advantage as they are a core part to early mid game strategy. Plan your rotates out carefully. Make sure you use things like the Flowberry Mist (or someone else’s) or other people’s builds to rotate. Eventually when you are safe you can take height without being lobby focused. Start your skybase somewhere safe and get as high as possible. Your main goal should be to take a very high height. Pre-edit your walls and start moving to circle. In the event that you get show down or run out of mats, use the gloves to launch you in the air 4 times and then use the skyline deployer. This will make you very hard to spot. Keep on using the skyline deployer to rotate to circle until it comes down to a heal off. Because you have an inventory filled with heals. You should win heal off by a significant margin.",
+      "author": {
+        "id": "821412756729233439",
+        "name": "itsdolphin",
+        "discriminator": "0000",
+        "nickname": "It’s Dolphin",
+        "color": "#82FFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821412756729233439/4225f256d5335a918c48fb825c7e8bdb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494003151169257665",
+      "type": "Default",
+      "timestamp": "2026-04-15T17:55:08.475+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "__Duos__\nThe strategy I said for solos can be used, but it is more difficult because your duo is a liability. The best bet is to play storm until mid-game. where you use vending machines to outlive the 2 tick storm. Once you out-heal storm and rotate to the 5 tick zone, you need to survive as long as possible for endgame. Try to save your meds and rotation for as long as possible and rotate with other people's builds. Try to take and hold height as it will be a win-con in your strategy. In the event that you run out of mats, use the skyline deployer with your duo. Alternatively, you can have the fragger survive on the bottom while the IGL takes height but it is not recommended as there will be people who fight for height. Make sure to have a method to go around fall damage as people like to shoot you down. If your rotate is not 100% safe, you can go around in storm by using your medkits to out-heal it (only use this for late end game). Try not to fight unless forced. In the last zone or when the zone closes, have somebody drop their meds (preferably the fragger), and die. The person playing heal off will then out heal last place. If you know that you can kill the last guy (very risky), have the fragger as the healer, and kill the last guy. This is a high-risk, high-reward play.",
+      "author": {
+        "id": "821412756729233439",
+        "name": "itsdolphin",
+        "discriminator": "0000",
+        "nickname": "It’s Dolphin",
+        "color": "#82FFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821412756729233439/4225f256d5335a918c48fb825c7e8bdb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494003622126817340",
+      "type": "Default",
+      "timestamp": "2026-04-15T17:57:00.76+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "__Trios__\nNearly identical to Duos but the support player will carry all medkits and a shotgun so everyone can play heal off.\n__Squads__\nDon't do this. Identical to trios but second fragger should also focus on medkits and IGL and main frag should get rotation and surge tags.",
+      "author": {
+        "id": "821412756729233439",
+        "name": "itsdolphin",
+        "discriminator": "0000",
+        "nickname": "It’s Dolphin",
+        "color": "#82FFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821412756729233439/4225f256d5335a918c48fb825c7e8bdb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

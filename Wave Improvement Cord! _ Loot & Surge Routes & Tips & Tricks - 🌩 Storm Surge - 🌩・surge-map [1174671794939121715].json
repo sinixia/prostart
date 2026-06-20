@@ -1,0 +1,399 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1174671794939121715",
+    "type": "GuildTextChat",
+    "categoryId": "997469295074353262",
+    "category": "\uD83C\uDF29 Storm Surge",
+    "name": "\uD83C\uDF29・surge-map",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:57.9184456+02:00",
+  "messages": [
+    {
+      "id": "1517458875941388439",
+      "type": "Default",
+      "timestamp": "2026-06-19T11:19:49.047+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## CHAPTER 7 SEASON 3\n- What are surge maps?\n - - A surge map is a map with the best locations for surge bases.\n - - Surge bases are the best locations from which you have the best visibility on other teams and you can base up at these locations and look for surge tags.\n\nFor more information about surge:\n⁠\uD83C\uDF29️・https://discord.com/channels/971731167621574666/1126853717333917718\n⁠\uD83C\uDF29️・https://discord.com/channels/971731167621574666/997469360518082601\n\n\uD83D\uDFE2 / \uD83D\uDFE9 = Good\n\uD83D\uDD35 / \uD83D\uDFE6 = Medium\n\uD83D\uDFE5 = Bad\n\n-# Credits to @Fantastic for doing the map",
+      "author": {
+        "id": "1458092102322880672",
+        "name": "slaxmgmt",
+        "discriminator": "0000",
+        "nickname": "Slax",
+        "color": "#9F96FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1285862374779256853",
+            "name": "Head Tips and Tricks",
+            "color": "#9F96FF",
+            "position": 56
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1478988744366231603",
+            "name": "Donator",
+            "color": "#85FFE4",
+            "position": 43
+          },
+          {
+            "id": "1363175748591943890",
+            "name": "Wave Contributor",
+            "color": "#00D6FF",
+            "position": 42
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1231175467755900960",
+            "name": "Diamond (LVL 25)",
+            "color": "#00FFFF",
+            "position": 28
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1123522501075542067",
+            "name": "Fragger \uD83D\uDEE0️",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1123524556162863175",
+            "name": "Pc",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1313027970956267560",
+            "name": "Mobile",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1188090112987377705",
+            "name": "Invite Way",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1458092102322880672/fef7ab4bc011028b3f08003d2a6e3000.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1517458875572555900",
+          "url": "https://cdn.discordapp.com/attachments/1174671794939121715/1517458875572555900/surge.png?ex=6a3703f4&is=6a35b274&hm=e863eefc736f83c562536984b85eb82e21bffb3ae5b95a7c961c8b1f2c0601c6&",
+          "fileName": "surge.png",
+          "fileSizeBytes": 865348
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "871517104753479680",
+          "name": "fantastic2",
+          "discriminator": "0000",
+          "nickname": "Fantastic",
+          "color": "#FF6A6A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1504762461826449408",
+              "name": "Head of Learning & Development",
+              "color": "#FF6A6A",
+              "position": 53
+            },
+            {
+              "id": "1502629954628747264",
+              "name": "Senior Admin",
+              "color": "#CD9CFF",
+              "position": 47
+            },
+            {
+              "id": "1105881866885668935",
+              "name": "Admin",
+              "color": "#A6B4FF",
+              "position": 46
+            },
+            {
+              "id": "1417348839110869102",
+              "name": "Senior Support",
+              "color": "#828FFF",
+              "position": 45
+            },
+            {
+              "id": "1105887807848841307",
+              "name": "Support",
+              "color": "#82FFFF",
+              "position": 44
+            },
+            {
+              "id": "1105881816730189907",
+              "name": "Staff",
+              "color": "#C9FF8B",
+              "position": 41
+            },
+            {
+              "id": "1188107382799216720",
+              "name": "Tips and Tricks Helper",
+              "color": "#AF4700",
+              "position": 40
+            },
+            {
+              "id": "1131555384734261298",
+              "name": "Gold (LVL 15)",
+              "color": "#00FF40",
+              "position": 26
+            },
+            {
+              "id": "1131555140910977105",
+              "name": "Silver (LVL 10)",
+              "color": "#40FF00",
+              "position": 25
+            },
+            {
+              "id": "1131555031687123035",
+              "name": "Bronze (LVL 5)",
+              "color": "#BFFF00",
+              "position": 24
+            },
+            {
+              "id": "1105873031450075227",
+              "name": "Access",
+              "color": "#FF8000",
+              "position": 22
+            },
+            {
+              "id": "1149680236041080832",
+              "name": "Member",
+              "color": "#FF0000",
+              "position": 20
+            },
+            {
+              "id": "1123522475079254077",
+              "name": "IGL \uD83E\uDDE0",
+              "color": null,
+              "position": 19
+            },
+            {
+              "id": "1123522501075542067",
+              "name": "Fragger \uD83D\uDEE0️",
+              "color": null,
+              "position": 18
+            },
+            {
+              "id": "1123524616003014696",
+              "name": "Playstation",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1408649572095365171",
+              "name": "Map Request Helper",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1307486678231023736",
+              "name": "*",
+              "color": null,
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/871517104753479680/985c27fe148ba96dd9bf87400cd9a2bf.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83C\uDF29️",
+          "code": "cloud_lightning",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f329.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDFE2",
+          "code": "green_circle",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e2.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDFE9",
+          "code": "green_square",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e9.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDD35",
+          "code": "blue_circle",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f535.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDFE6",
+          "code": "blue_square",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e6.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDFE5",
+          "code": "red_square",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e5.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,73 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "997469406818996284",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・predicting-zones",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:51.1990654+02:00",
+  "messages": [
+    {
+      "id": "1400226128119074908",
+      "type": "Default",
+      "timestamp": "2025-07-30T23:18:43.887+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## 1.Understand Storm Circle Behavior ##\n\n* The first circle appears randomly but almost always within the starting safe zone.\n* In 60–70% of cases, each subsequent circle shifts toward the center of the previous zone \n* Edge pulls (zones shifting to map edges) are rarely consecutive.\n\n## 2.Pay Attention to Terrain ##\n* Ending zones rarely occur on high mountains, deep water, or uneven terrain.\n* They more often land in larger flat areas or gentle terrain.\n\n## 3.Center Zone Strategy ##\n* The center of the current safe zone has a strong chance of being inside the next circle.\n* For placement-based play, position near—but not directly on—the center for flexibility.\n\n## 4.Use Forecasting Items (If Available) #\n* If the currrent season includes augments or forecasting items, prioritize securing them to predict storm circles.\n\n## 5.Observe Pro Players ##\n* Watching competitive players and tournament rotations gives insight into common zone paths and prediction habits.",
+      "author": {
+        "id": "873214930990538844",
+        "name": "dexulol",
+        "discriminator": "0000",
+        "nickname": "Dexu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/873214930990538844/70c40df4c0fb6e2a102f89d6225ee1bc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1400226163061821470",
+      "type": "Default",
+      "timestamp": "2025-07-30T23:18:52.218+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "__Videos to watch:__\nhttps://www.youtube.com/watch?v=PWqVdN6jt_o\n\nhttps://www.youtube.com/watch?v=pwjvGqdwnK0\n\nhttps://www.youtube.com/watch?v=5ZVEG0Hz5sE\n\nhttps://www.youtube.com/watch?v=reco1yV96M8&t=315s",
+      "author": {
+        "id": "873214930990538844",
+        "name": "dexulol",
+        "discriminator": "0000",
+        "nickname": "Dexu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/873214930990538844/70c40df4c0fb6e2a102f89d6225ee1bc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

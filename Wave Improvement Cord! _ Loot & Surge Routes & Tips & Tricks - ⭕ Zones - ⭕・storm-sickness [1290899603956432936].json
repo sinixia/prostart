@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1290899603956432936",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・storm-sickness",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:00.1445343+02:00",
+  "messages": [
+    {
+      "id": "1316342762831872000",
+      "type": "Default",
+      "timestamp": "2024-12-11T10:56:11.125+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Storm Sickness**\n\n500 Damage: Storm Sickness Warning\n600 Damage: Storm Sickness Applies\n1000 Damage: Instant Elimination\n\n__Explanation:__\n\nOnce you take 500 damage from storm, a warning shows telling you that you'll start taken storm sickness damage soon\n\nOnce you take 600 damage for storm, you start taking extra damage from storm sickness\"\n\nOnce you take 1000 damage from storm, you are instantly eliminated",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1295948281586782278",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-claim-earnings",
+    "topic": "How to claim the earnings you won in tournaments"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:13.7807638+02:00",
+  "messages": [
+    {
+      "id": "1360302998714323154",
+      "type": "Default",
+      "timestamp": "2025-04-11T19:18:28.101+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "### __How to Claim Your Earning__\n- Step 1: Go to <https://epicgames.com/competitive>\n- Step 2: Sign in to the account that you used for the competition for which you are claiming a prize\n- Step 3: Under `MY PRIZES`, locate and choose the blue `START TAX INTERVIEW` button\n- Step 4: Follow the steps to start the process\n\n- Use a PC / Laptop as the form may not load on phones\n- Source of information: <https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Competitive/how-do-i-claim-my-prize-a000084710>",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

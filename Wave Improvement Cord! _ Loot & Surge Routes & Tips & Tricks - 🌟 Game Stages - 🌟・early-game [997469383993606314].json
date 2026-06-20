@@ -1,0 +1,235 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "997469383993606314",
+    "type": "GuildTextChat",
+    "categoryId": "997469298316546148",
+    "category": "\uD83C\uDF1F Game Stages",
+    "name": "\uD83C\uDF1F・early-game",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:23:17.5757724+02:00",
+  "messages": [
+    {
+      "id": "1514336528610889800",
+      "type": "Default",
+      "timestamp": "2026-06-10T20:32:43.433+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## How to Play Early Game\n**Aggressive:**\n- Drop at a Named Location\n- Try and aim to wipe out most people at your dropspot to accumulate kills quickly\n- Get good fighting loot and get good mats.\n- Look for quick kills and aim to end fights early and efficiently.\n\n\n**Passive:**\n- Drop at a unnamed location or passive POI\n- Loot up as efficiently as possible and aim to get max mats\n- Try and rotate by following people and go through the side of storm circles by aiming to get a deadside position\n- If you want surge damage look for teams rotating late into zone, as long as you dont take much damage during offspawn you wont need much\n\n## How to Rotate Early Game\n- Follow a loot path to ensure you finish looting before other players do.\n- Rotate deadside to avoid other players\n- Be quick, If that means missing out on a bit of loot thats ok, storm is extreamly fast this season without a lot of movement\n- HEAVILY prioritise getting a medium to high priority position on the map as early as you can",
+      "author": {
+        "id": "1458092102322880672",
+        "name": "slaxmgmt",
+        "discriminator": "0000",
+        "nickname": "Slax",
+        "color": "#9F96FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1285862374779256853",
+            "name": "Head Tips and Tricks",
+            "color": "#9F96FF",
+            "position": 56
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1478988744366231603",
+            "name": "Donator",
+            "color": "#85FFE4",
+            "position": 43
+          },
+          {
+            "id": "1363175748591943890",
+            "name": "Wave Contributor",
+            "color": "#00D6FF",
+            "position": 42
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1231175467755900960",
+            "name": "Diamond (LVL 25)",
+            "color": "#00FFFF",
+            "position": 28
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1123522501075542067",
+            "name": "Fragger \uD83D\uDEE0️",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1123524556162863175",
+            "name": "Pc",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1313027970956267560",
+            "name": "Mobile",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1188090112987377705",
+            "name": "Invite Way",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1458092102322880672/fef7ab4bc011028b3f08003d2a6e3000.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

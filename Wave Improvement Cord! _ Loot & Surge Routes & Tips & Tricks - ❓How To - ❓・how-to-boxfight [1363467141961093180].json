@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1363467141961093180",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-boxfight",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:10.0523553+02:00",
+  "messages": [
+    {
+      "id": "1412750972647641123",
+      "type": "Default",
+      "timestamp": "2025-09-03T12:47:59.523+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# How to Box Fight (Passive Style)\n** **\n**1. Setting Up a Strong Defensive Position**\n\n**Importance of Positioning**\n\n- Begin with a solid defensive stance to avoid instantly losing control of the fight.\n\n- Good positioning makes it harder for opponents to overwhelm you.\n\n**2. Making Space**\n\n**Benefits**\n\n- Opens up peeks, counter angles, and escape routes.\n\n- Forces opponents to reposition, giving you time to react.\n\n- Helps you avoid getting peace-controlled.\n\n- Practical Example: Layer Protection\n\n- Place a backward stair or flip an existing cone/stair to protect yourself before expanding.\n\n- Practice consistent stair flips to prevent errors under pressure.\n\n**3. Expanding Effectively**\n\n**Edit Efficiency**\n\n- Flip stairs correctly by moving your crosshair diagonally instead of dragging it across.\n\n- Avoid mis-edits—they can cost you heavy damage.\n\n**Middle Wall Placement**\n\n- Always place middle walls inside your boxes to prevent opponents from exploiting gaps.\n\n**Utilizing Space**\n\n- Don’t overbuild—expand strategically.\n\n- Use setups like the L-shaped box for safe healing and counter angles.\n\n**Counter Shots**\n\n- Look for safe opportunities to deal return damage.\n\n- Counter-damage can slow down aggressive players and help you regain control.\n\n**4. Defending Against Pressure**\n\n**Mistakes to Avoid**\n\n- Avoid unnecessary trades or 50/50s.\n\n- Always set up escape routes instead of gambling damage.\n\n**Pro Tips**\n\n- Don’t edit directly on opponents with guns ready bait shots first.\n\n- Peek safely from behind cover.\n\n- Switch angles under pressure to disrupt their attack rhythm.\n\n**5. Peak Defense**\n\n- Use window edits and protective peeks to minimize your exposure.\n\n- Always play angles where you see more of your opponent than they see of you",
+      "author": {
+        "id": "1154090230891171860",
+        "name": "juxxsemii",
+        "discriminator": "0000",
+        "nickname": "juxxsemii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1154090230891171860/8193f513e05f37b81f8ed51f11d275e2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

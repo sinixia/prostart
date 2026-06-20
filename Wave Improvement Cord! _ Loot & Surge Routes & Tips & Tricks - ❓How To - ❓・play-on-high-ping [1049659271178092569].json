@@ -1,0 +1,207 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1049659271178092569",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・play-on-high-ping",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:10.5011196+02:00",
+  "messages": [
+    {
+      "id": "1501692657993519254",
+      "type": "Default",
+      "timestamp": "2026-05-06T23:10:29.766+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# How to Play on High Ping\nHigh ping is a disadvantage as you need to focus on consistent edits and not anything flashy. Here are some tips on how to play on high ping.\n1. __Tips.__\n  - **Do not W Key.**\n  - Because you are on high ping, you need to play it as safely as possible.\n  - W keying will only get you killed by the people playing on normal/low ping.\n  - **Focus on your rotations and playing storm.**\n  - Playing storm is the safest option and involves limited fighting. If you want to know more about storm, go to #❓・how-to-play-storm \n  - You need excellent rotations so you do not get sprayed by 5 guys at once. Go to #\uD83D\uDCCC・rotation-tips .\n  - **Focus on boxfighting.**\n  - If you box up in brick or metal, the person trying to fight is most likely to disengage with you.\n  - Boxfighting also makes it more even because you only need to do basic peaks.\n  - Make sure to build multiple boxes as it gives you more room to heal.\n2. __Disadvantages and how to get around them__\n  - The only way you can take walls is if your opponent is bad at the game and does not know how to stop the turbo build 50/50. Instead, rebox multiple times and get counter damage when you can.\n  - You are slower at editing and resetting, meaning that your opponent can get a shot on you first, even if you have priority. Instead, prioritize height and leave while you can. Make sure you do not show signs of weakness when running away, as that incentivizes the opponent to come for you. You can also prefire your opponent if they get an advantage.\n3. __Training and Mindset__\n- Play creative on high ping and play scrims. This will prepare you for real situations and allows your reaction timing to adjust and force you to have better peaks.\n- Do not crash out. If you need a break, take one. I would also recommend trying the 3-4 games per hour rule, so in between games, you can warm up with some zone wars.\n- Practice prefires and positioning with high ping.",
+      "author": {
+        "id": "821412756729233439",
+        "name": "itsdolphin",
+        "discriminator": "0000",
+        "nickname": "It’s Dolphin",
+        "color": "#82FFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821412756729233439/4225f256d5335a918c48fb825c7e8bdb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1501692674405568683",
+      "type": "Default",
+      "timestamp": "2026-05-06T23:10:33.679+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you want to lower ping and improve performance, read #\uD83D\uDEE0・network-connection-internet-tweaks and #\uD83D\uDEE0・windows-tweaks for more information. **Make sure to read #\uD83D\uDEE0・⚠disclaimer⚠ **",
+      "author": {
+        "id": "821412756729233439",
+        "name": "itsdolphin",
+        "discriminator": "0000",
+        "nickname": "It’s Dolphin",
+        "color": "#82FFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1408649572095365171",
+            "name": "Map Request Helper",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821412756729233439/4225f256d5335a918c48fb825c7e8bdb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1332979214525268060",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-scrim",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:21:12.0509966+02:00",
+  "messages": [
+    {
+      "id": "1371032181975289946",
+      "type": "Default",
+      "timestamp": "2025-05-11T09:52:24.729+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# How to Scrim\n\n**Keep the Same**\nHere is the list of all settings you NEED to keep the same when joining a scrims game:\n- The gamemode & teamsize\n- The region\n- The join code\n\n**Using Yunite for Code**\nMost severs do not send the code itself, but rather use the Yunite Bot which adds to code for you. Remember that this is for a specific scrims server and the channel names, etc will likely be different in other servers but the whole process is still the same. \n\n__Here's how you can use the Yunite Bot for scrims: <https://www.youtube.com/watch?v=j8DbOGqvCjs>__\n\n**How to Enable Tournament Settings**\n<https://www.youtube.com/watch?v=HaaMTcsQfwo>\n\n**Scrim Servers:**\n> - #\uD83C\uDFC3‍♂️・scrims-servers",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

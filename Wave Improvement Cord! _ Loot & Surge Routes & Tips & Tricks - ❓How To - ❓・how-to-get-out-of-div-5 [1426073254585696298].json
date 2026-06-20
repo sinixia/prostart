@@ -1,0 +1,399 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1426073254585696298",
+    "type": "GuildTextChat",
+    "categoryId": "1295947994297925682",
+    "category": "❓How To",
+    "name": "❓・how-to-get-out-of-div-5",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:20:14.2359466+02:00",
+  "messages": [
+    {
+      "id": "1467715781847552011",
+      "type": "Default",
+      "timestamp": "2026-02-02T03:58:31.233+01:00",
+      "timestampEdited": "2026-02-03T08:23:55.729+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Lets get you out of div 5\n\nFirst thing to note is i will be basing qual of eu qual which is top 400\n\n# Estimated qual\nThe estimated qual is around 250 - 270 points (270 points to be safe)\n\nKey Priorities\n- You should be aiming to hit everyendgame in order to maximise placement points. Do not braindead key as this can lead to bad outcomes in the game aswell. \n- Midgame, should be focused on good set up for the endgame where if you want you take smart fights not ones 500 meters in zone. In addition please focus on maintaining your materials or increasing them \n- Choosing a good drop spot for your playstyle, what I mean by this is: if you're a placement warrior, go land at low-key drops that have a few chests and are likely uncontested. However, if you feel you're good at taking fights and like fighting off-spawn, land at a named POI to get good loot and give yourself a better chance in midgame and endgame. However, both playstyles have their weaknesses and strengths, so one is not superior to the other.\n- In your endgame you should be focusing trying to get height. Height in these lobbies is crucial as it is likely the most easist layer for most teams to play as there is miminal pressure from other teams compared to mindground and low ground. In addition you are able to pick of easy kills on height as well.\n- You should be aiming to win every game. It sounds simple, but what I mean is that you shouldn’t be W-keying randomly. Prioritize placement more as your not needing at top 10 placement here but top 400 where consistency will reward",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1467715808103759964",
+      "type": "Default",
+      "timestamp": "2026-02-02T03:58:37.493+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you want to guarantee your qualification to a higher division, it is vital to be practicing. Let's keep it real, practicing is not going to be fun. It's not sitting in scrims for 6 hours. **Those are fake grinders. ** **Practicing is instead doing the things you hate.** You all know deep down what you need to improve on. We all know what our weaknesses are, for some, it may be fighting players; for others, in-game knowledge, game sense, etc.\n\nThe most important thing is finding your weaknesses and strengths, and playing to your strengths while you train your weaknesses.\n\nSo to recap there is no generic way to pratice like your been told to sit in scrims for 6 hours. Some people may need that but not many. \n\nFor those wondering what an optimal training routine could look like here is one below\n\n- Warm up (free building or however you like) can use a map in #\uD83D\uDDA5・mechs-training \n- Aim duels or aim training on what ever software you got or can use a map in #\uD83D\uDDA5・aim-training\n- 1v1 fighting and team fighting can do this in rank if there are queues or in #\uD83D\uDDA5・fighting-training maps \n- 1 or 2 scrim matches to try gameplan from drop spot etc \n- Vod reviewing tounerments taking notes down what went wrong then TAKING ACTION AND FIXING THE MISTAKES very important not many do",
+      "author": {
+        "id": "987843990734905414",
+        "name": "fruss.",
+        "discriminator": "0000",
+        "nickname": "Use Code Wavedropmaps",
+        "color": "#050000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1414255120773812309",
+            "name": "Fruss",
+            "color": null,
+            "position": 80
+          },
+          {
+            "id": "1221373769382105189",
+            "name": "Founder",
+            "color": "#050000",
+            "position": 63
+          },
+          {
+            "id": "1105881975425859688",
+            "name": "Owner",
+            "color": "#A9C9FF",
+            "position": 62
+          },
+          {
+            "id": "1231543260887912498",
+            "name": "Head Marketing | Management",
+            "color": "#FFCD8B",
+            "position": 58
+          },
+          {
+            "id": "1105881928344801313",
+            "name": "Management",
+            "color": "#FF7BAA",
+            "position": 51
+          },
+          {
+            "id": "1308390018716532916",
+            "name": "Head Admin",
+            "color": "#F484FF",
+            "position": 49
+          },
+          {
+            "id": "1502629954628747264",
+            "name": "Senior Admin",
+            "color": "#CD9CFF",
+            "position": 47
+          },
+          {
+            "id": "1105881866885668935",
+            "name": "Admin",
+            "color": "#A6B4FF",
+            "position": 46
+          },
+          {
+            "id": "1417348839110869102",
+            "name": "Senior Support",
+            "color": "#828FFF",
+            "position": 45
+          },
+          {
+            "id": "1105887807848841307",
+            "name": "Support",
+            "color": "#82FFFF",
+            "position": 44
+          },
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1131555516829663244",
+            "name": "Active",
+            "color": "#BF00FF",
+            "position": 33
+          },
+          {
+            "id": "1302246613061734450",
+            "name": "Battle Pass Supporter",
+            "color": "#8000FF",
+            "position": 32
+          },
+          {
+            "id": "1131555280602284083",
+            "name": "Platinum (LVL 20)",
+            "color": "#00FFBF",
+            "position": 27
+          },
+          {
+            "id": "1131555384734261298",
+            "name": "Gold (LVL 15)",
+            "color": "#00FF40",
+            "position": 26
+          },
+          {
+            "id": "1131555140910977105",
+            "name": "Silver (LVL 10)",
+            "color": "#40FF00",
+            "position": 25
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1199151986092814374",
+            "name": "Access Invite way",
+            "color": "#FF8000",
+            "position": 21
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1123522475079254077",
+            "name": "IGL \uD83E\uDDE0",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1124100113585934506",
+            "name": "Support \uD83E\uDD1D",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1123524616003014696",
+            "name": "Playstation",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1200067807199629312",
+            "name": "Free Pro Loot Route",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1200067852347117608",
+            "name": "Free Pro Drop Map",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1307486678231023736",
+            "name": "*",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/987843990734905414/92bfad96c66e3d59b26f219a08f185b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

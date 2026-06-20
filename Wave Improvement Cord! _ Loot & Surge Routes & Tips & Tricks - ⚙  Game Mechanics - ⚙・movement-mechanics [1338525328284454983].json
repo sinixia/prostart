@@ -1,0 +1,205 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1338525328284454983",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・movement-mechanics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:03.2427245+02:00",
+  "messages": [
+    {
+      "id": "1338527727262765149",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:11:18.822+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Double Movement:\n- Best settings for using double movement:",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1338527727283863613",
+          "url": "https://cdn.discordapp.com/attachments/1338525328284454983/1338527727283863613/image.png?ex=6a36ad96&is=6a355c16&hm=ed7bcfc3053485d7f434d6eefe4c561eea8dd56a5e494e9c004ec99a663ccae4&",
+          "fileName": "image.png",
+          "fileSizeBytes": 41400
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338527748532076636",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:11:23.893+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- It is not necessary to use 3rd Party remapping software today (Keys2XInput/WootingRemapper) because the remapper is external and may be buggier and less responsive than the native configuration inside the game settings.\n\n- Videos on more double movement settings:\n  - https://youtu.be/0ASjS6tCxDQ\n  - https://www.youtube.com/watch?v=1UQt1qvN6cc",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338527772179693763",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:11:29.531+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n# Sliding:\n- Sliding and sprinting continuously is better than sprinting:\n\nYou get high momentum maintained sprinting and sliding, yet you consume less energy over time. This is called the \"muddy sprint\" as it was exploited and popularized during `Chapter 4 Season 3: Wild` when it was used in the mud. This was where sliding made you travel faster than before (until it was nerfed towards the end of the season)\n\n- You can get into boxes while sliding but it has to be right timing, place a cone and edit it like a stair or just straight up place a stair facing the other way. Then make the wall extremely low so u can break it with a single shot from a SMG, AR or even a shotgun. If you slide and shoot the wall as you are about to hit the wall, You will enter the box and then you have freedom to do anything you like.\n\n- Videos to watch about sliding:\n  - https://youtu.be/8TURT7t-aiw\n  - https://youtu.be/DGwKiDvrMJw\n  - https://youtu.be/FINwgdRTVpE\n  - https://youtu.be/xiKg0CoJJjg\n  - https://youtu.be/agevytXqTx4",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338527789808226364",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:11:33.734+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n# Mantling:\n- When an emeny buildfights you and 90s higher than you, they will ramp towards you from above.  You can sidejump onto their ramp and follow them.\n\n- If an enemy is buildfighting you and placed a cone whilst ramping towards you too, you can mantle on top of it, sprint, and build ramps for height again.\n\n- Use SPACE or JUMP to mantle instead of run forward to mantle. You may accidentally mantle onto a higher level if you are running into a raised floor or other build. With jump function, you can mantle standing still to, especially mantling through a half floor above you then resetting it to lay the full floor down.\n\n- If taking descent TOO quickly: Rotate ramp backwards and hold place. When it places on the ground, hold mantle, and you should be free from damage. Useful if you have no ANTI-FALL DAMAGE item or have ran out of charges on it or have nothing to save you.\n\n- If you are out of mats in endgame or during a fight: You can use mantling to get up to someone's builds and try to get a refresh or if you are out of mats you can mantle up to old builds to survive longer and get more points.\n\n- Reasons why you should try to sprint and jump higher onto another layer in front of you instead of mantling:\n  - You may experience a pullout delay for your weapon upon mantling so you are left prone to damage.\n  - You cannot build instantly to protect yourself from damage or play defensively in general. \n  - The enemy might counter your mantle by placing a wall at your position during mantle to void your ascent and may lead you to fall damage with failed mantle attempt or losing height advantage and risk losing the fight.\n\n- Videos to watch about mantling\n  - https://www.youtube.com/watch?v=rj5mP5NBnac\n  - https://www.youtube.com/watch?v=eGxK4otkLKc",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338527808787316798",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:11:38.259+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n# New Movement [Wall Kicks/Ledge Jumps/Wall Scrambles/Roll Landing]\n- Wall Kicks:\nSprint alongside a wall, jump, then jump again against the wall\n\n- Ledge Jumps: \nSprint and then jump before an edge\n\n- Wall Scrambles:\nFind a high wall, run towards it, jump, then jump again\n\n- Roll Landing:\nFrom a higher spot, jump and then hold jump before you land\n\n- Videos to watch about the new movement:\n  - https://youtube.com/shorts/7Yb462iCwM8?si=ff3WXvKuhMcO7qEQ\n  - https://www.youtube.com/watch?v=0EgSMl0wa_o",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338527955269324951",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:12:13.183+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n# More Movement Videos:\n- https://youtu.be/dTs14akup_E\n- https://youtu.be/760K0wAeFVU?si=gr2MDiM2dJvjIxBH\n- https://youtu.be/btGegImqDvo\n- https://youtu.be/cZPmACXmnKc",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1338528135716667543",
+      "type": "Default",
+      "timestamp": "2025-02-10T16:12:56.205+01:00",
+      "timestampEdited": "2025-02-10T16:21:32.808+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n# Quick Links\n\n- [Double Movement](https://discord.com/channels/971731167621574666/1338525328284454983/1338527727262765149)\n- [Sliding](https://discord.com/channels/971731167621574666/1338525328284454983/1338527772179693763)\n- [Mantling](https://discord.com/channels/971731167621574666/1338525328284454983/1338527789808226364)\n- [New Movement](https://discord.com/channels/971731167621574666/1338525328284454983/1338527808787316798)\n- [More Movement Videos](https://discord.com/channels/971731167621574666/1338525328284454983/1338527955269324951)",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

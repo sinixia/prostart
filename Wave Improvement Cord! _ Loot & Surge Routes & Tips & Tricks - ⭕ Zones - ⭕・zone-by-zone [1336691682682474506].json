@@ -1,0 +1,98 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1336691682682474506",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・zone-by-zone",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:12:01.8678493+02:00",
+  "messages": [
+    {
+      "id": "1351857390491930685",
+      "type": "Default",
+      "timestamp": "2025-03-19T10:58:38.189+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- **Zone 1**\n  - Complete your early game loot path\n  - Farm your mats up especially metal at your dropspot\n  - Predict when zone going to pull\n  - Decide if you want to play deadside or not\n  - WKEY if you have bad loot or if you beamed one of the player/players\n\n- **Zone 2**\n  - Decide if you want to play for kills or for placement \n  - If you want to play for kills rotate towards the center map but if you want to play for placement rotate deadside so that it’s harder for players to key you .\n\n- **Zone 3**\n  - Make sure you get 555 mats before zone 4\n  - Get into a good position\n\n- **Zone 4**\n  - Don't sit still in a box, instead look through a cone so you can get intel on other players and plan your next rotate\n  - Try and isolate yourself away from other players to avoid getting sprayed\n  - Conserve your mats\n\n- **Zone 5**\n  - Find a good elevated spot from where you can see other players rotating.\n  - Look for surge tags if you know surge is going to pop up.\n  - Make sure you have cap mats and good heals going into endgame.\n  - Look for 1v1’s if you have no surge, bad materials, bad loot or bad heals.\n\n- **Zone 6**\n  - First 50/50 zone\n  - Take a gamble and position near center edge or play edge center\n  - Try to be isolated away from other players so you don't get focused\n  - Look for easy points on players rotating backside and get them lobbied\n\n- **Zone 7**\n  - Try to sit in a spot where you can rotate without being spotted my other players (nearby hills or next to houses )\n  - Shoot other people that are the last to rotate as they are at the worst position.\n  - Conserve your mats so that you have enough hard materials going into endgame.\n\n- **Zone 8**\n  -  Use a bit more mats to get in so your not with everyone on congested side of zone\n  - Deadside is relatively free in moving zones\n  -  You don't want to get caught back side in zone\n  -  Focus on playing edge of storm \n  -  Make sure you're playing a good layer",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351857477427134505",
+      "type": "Default",
+      "timestamp": "2025-03-19T10:58:58.916+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n- **Zone 9**\n  - Look for refresh if needed\n  - Find a good layer\n  - Try to not be on congested side of zone\n  - Save your mats and use your mobility if have it\n  - Try to always rotate on deadside of the moving zones avoid congestion\n  - Only look for refresh if needed (Unless confident or is a good decision)\n  - Do not push fights that aren't worth it\n\n- **Zone 10**\n  - Same tips as `Zone 9`\n  - Don't get caught backside of zone\n  - Go low ground if you're in shambles as there are lots of opportunities to get refreshes there\n  - Look backside for kills\n  - STOP looking frontside and rotate!\n\n- **Zone 11**\n  - Same tips as `Zone 10`\n  - Go low ground if you're in shambles as there are lots of opportunities to get refreshes there\n  - Look at playercount see if going to healoff( If zones been pulling back likey as more players can live in old traps)\n  - Prepare for healoff\n  - Avoid taking zone damge or you might loose healoff (Storm sickness)\n** **",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351857479566360666",
+      "type": "Default",
+      "timestamp": "2025-03-19T10:58:59.426+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- **Zone 12**\n  - A lot of games go to healoff, especially in solos\n  - Highground is a good win condition if you have mats to take it\n  - Make sure you got good heals for healoff (If its going to one)\n  - Know where opponents are (Check your back)\n  - Look backside for people playing zone\n  -  Make sure to save the heals and utilities that will save you from fall damage until end rotation or final attack where you have to change layers to go down safely or scale up layers with mobility to reach an enemy and catch him out and attack to secure win in like a top 2-4 players ending (even with a moving zone)\n  - If going for refreshes beforehand, make sure you priorities medkits or medmists to outheal others. Start healing when the health goes to 45-40 as it does 10 tick, not too low 20-15 so storm takes you out, nor will you do at 80-85 so your medkit stops when you re-heal to 100 and waste one heal\n  - Discontinue any fights unless you are in a 50/50 unable to disengage. Box up in metal (or brick) and heal so an enemy can't frag you when you're trying to heal",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

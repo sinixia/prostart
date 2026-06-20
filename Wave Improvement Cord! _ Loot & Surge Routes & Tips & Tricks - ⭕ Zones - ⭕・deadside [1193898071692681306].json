@@ -1,0 +1,177 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1193898071692681306",
+    "type": "GuildTextChat",
+    "categoryId": "997469302280163399",
+    "category": "⭕ Zones",
+    "name": "⭕・deadside",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:11:58.1967874+02:00",
+  "messages": [
+    {
+      "id": "1338941999210041416",
+      "type": "Default",
+      "timestamp": "2025-02-11T19:37:28.951+01:00",
+      "timestampEdited": "2025-03-28T12:13:52.034+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## **Introduction:**\nDeadside refers to the least congested area of the storm circle, typically opposite the bus path and away from major POIs. Rotating to deadside helps avoid unnecessary fights, allowing for safer positioning and better endgame survival.\n\n## **Early Game:**\n* Land at a POI that allows for an easy deadside rotation (e.g., edge POIs with good loot paths).\n* Prioritize farming materials and getting mobility items early to enable smooth rotations.\n* Scout the first zone and determine the best path to deadside based on enemy positioning.\n## **Mid Game:**\n* Begin rotating towards deadside once the first storm appears, avoiding major player clusters.\n* Use natural cover like hills, trees, and buildings to stay hidden while rotating.\n* Keep an eye on enemy movements and adjust your route accordingly.\n## **Late Game:**\n* Establish a strong position on deadside, ideally on high ground.\n* Conserve materials by using deadside’s safety to minimize unnecessary builds.\n* Monitor players rotating from the congested side and be prepared to capitalize on their weak positions.\n## **Final Circles:**\n* Stay patient and let other players fight in the congested areas before making a move.\n* Time your rotation carefully, ensuring you are not caught in the middle of the zone pull.\n* Move to a safer position when the zone is about to close, securing height or a good tarp.\n* Only engage when necessary, such as when forced by Storm Surge or being pushed.\n## **General Tips:**\n* Always analyze the storm path and predict deadside before moving.\n* Communicate with teammates (if in duos, trios, or squads) to coordinate safe rotations.\n* Utilize natural terrain to stay hidden and reduce material usage.\n* Plan ahead by marking potential deadside routes as soon as the first zone appears.\n\n## **Videos to watch:**\n* https://youtu.be/wI5XxsKGegk?si=1243WeCvmE93Z1Xk\n* https://youtu.be/VsU3coT-oVw?si=521zDAr4fYECGbrp",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355131268295295016",
+      "type": "Default",
+      "timestamp": "2025-03-28T11:47:51.483+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here is a great video that explains a really hard concept to learn in endgames, deadside, but it's really good since it doesn't just explain deadside for non-moving zones, but for moving zones aswell.Great video explaining a really hard concept to learn in endgames:\n\nhttps://www.youtube.com/watch?v=n27SQ7J3hVU&ab_channel=Jayth",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Deadside Rotates in Moving Zones - Road To Tier 1 Pro",
+          "url": "https://www.youtube.com/watch?v=n27SQ7J3hVU",
+          "timestamp": null,
+          "description": "In this video ill be explaining what a movie zone deadside rotate is and how to take advantage of them! \n\n➡ Wanna see more content? Follow my other Socials!\n\uD83D\uDD34Twitch: https://twitch.tv/jayth_​​​​​​​​​​​​\n\uD83D\uDC26Twitter: https://twitter.com/jaythofficial​​​​\n\uD83D\uDCF8 Instagram: https://instagram.com/jaythofficial\n\nOrg...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Jayth",
+            "url": "https://www.youtube.com/channel/UCDI6ToBDbXRIZr9lbFvPLdw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/p6ACqYCT0ey0E3rVQGBeK5iCuPcRe0QAX5SAuAY7NWA/https/i.ytimg.com/vi/n27SQ7J3hVU/sddefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/n27SQ7J3hVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/n27SQ7J3hVU",
+            "canonicalUrl": "https://www.youtube.com/embed/n27SQ7J3hVU",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDD34",
+              "code": "red_circle",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f534.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDC26",
+              "code": "bird",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f426.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCF8",
+              "code": "camera_with_flash",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4f8.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

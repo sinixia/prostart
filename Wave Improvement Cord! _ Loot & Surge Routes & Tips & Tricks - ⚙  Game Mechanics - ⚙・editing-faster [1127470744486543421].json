@@ -1,0 +1,153 @@
+{
+  "guild": {
+    "id": "971731167621574666",
+    "name": "Wave Improvement Cord! | Loot & Surge Routes & Tips & Tricks",
+    "iconUrl": "https://cdn.discordapp.com/icons/971731167621574666/05495308c0f822f988c59206361c7e63.png?size=512"
+  },
+  "channel": {
+    "id": "1127470744486543421",
+    "type": "GuildTextChat",
+    "categoryId": "997469301760073748",
+    "category": "⚙  Game Mechanics",
+    "name": "⚙・editing-faster",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-20T02:17:55.9992487+02:00",
+  "messages": [
+    {
+      "id": "1340012570328694814",
+      "type": "Default",
+      "timestamp": "2025-02-14T18:31:32.996+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- Learning consistency or perfecting errors with existing builds:\n  - Increase your speed to 1.2 or 1.3. Repeat the inconsistent retakes or builds until you can quickly perform them. \n  - Perfect crosshair placement and flicking through tiles to edit is a must to achieve here.\n  - Switch back to default speed after you are comfortable with the particular build and it will feel easier to consistently build that retake, tunnel etc in other maps with building enabled or real BR building.\n  - You can sharpen your excellent build skills by playing freebuilds on 1.1-1.2 by default for 5 minutes when you warm up.\n\n- Learning New Builds: Slow down to 0.7-.8 speed for 5 minutes and practice a variety of freebuild retakes, tunneling etc. Then switch back to default speed.\n\n- Use speed training, speed training means reducing your sensitivity by 50% so after a while when you change it back, you will see a big increase in how fast you are.\n\n- Use Optimal Keybinds: Set up keybinds that are comfortable and allow you to access editing tools quickly. Consider using separate buttons for editing to streamline your process.\n\n- Use Edit Courses and Drills: Engage in creative maps and custom drills designed to enhance editing speed and accuracy. Repetition will help build muscle memory and improve your editing reflexes.\n\n- Practice in High-Pressure Situations: Try to practice editing while under pressure or in intense situations to simulate real-game scenarios.\n\n- Work on Precision and Speed: Focus on precise keypresses and quick movements. Practice drills that enhance your overall hand-eye coordination and dexterity.\n\n- Study Professional Players: Observe how professional players edit, including their keybinds, editing techniques, and decision-making in various scenarios. Try to incorporate their methods into your gameplay.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1340012585927315627",
+      "type": "Default",
+      "timestamp": "2025-02-14T18:31:36.715+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **\n__Videos to watch:__\n- https://youtu.be/Bp6ubP2p8AE\n- https://www.youtube.com/watch?v=2omhWWinAmI\n- https://www.youtube.com/watch?v=v6QD-gMrq_c\n- https://www.youtube.com/watch?v=OfklT799xNk",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1366018192845045781",
+      "type": "Default",
+      "timestamp": "2025-04-27T13:48:36.565+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Maps to use: #\uD83D\uDDA5・mechs-training",
+      "author": {
+        "id": "836936316548546560",
+        "name": "znxs007",
+        "discriminator": "0000",
+        "nickname": "znxs",
+        "color": "#C9FF8B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1105881816730189907",
+            "name": "Staff",
+            "color": "#C9FF8B",
+            "position": 41
+          },
+          {
+            "id": "1188107382799216720",
+            "name": "Tips and Tricks Helper",
+            "color": "#AF4700",
+            "position": 40
+          },
+          {
+            "id": "1151491958812975224",
+            "name": "Loot Route Maker",
+            "color": "#01665B",
+            "position": 39
+          },
+          {
+            "id": "1507991178077798500",
+            "name": "Surge Route Maker",
+            "color": "#610061",
+            "position": 38
+          },
+          {
+            "id": "1407568400741564496",
+            "name": "Promoters",
+            "color": "#8DFFD1",
+            "position": 37
+          },
+          {
+            "id": "1131555031687123035",
+            "name": "Bronze (LVL 5)",
+            "color": "#BFFF00",
+            "position": 24
+          },
+          {
+            "id": "1105873031450075227",
+            "name": "Access",
+            "color": "#FF8000",
+            "position": 22
+          },
+          {
+            "id": "1149680236041080832",
+            "name": "Member",
+            "color": "#FF0000",
+            "position": 20
+          },
+          {
+            "id": "1188092082540261486",
+            "name": "Code Way",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836936316548546560/475a25e836b3f560851e4f62a8bbeeac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}
